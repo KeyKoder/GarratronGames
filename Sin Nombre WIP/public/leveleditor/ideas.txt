@@ -1,0 +1,68 @@
+    1.mini-mapa
+
+    2.multi mapa [Hecho]
+
+                             mapa_3(12x12)
+
+    
+           mapa_2(12x12)     mapa_1(12x12)    mapa_4(12x12)  
+
+           
+                             mapa_5(12x12)
+  
+
+
+
+    3.minas  
+      ej
+           con un pico y uno de madera crateas "(insert_name)" 
+           y puedes picar una mina (hay q crearlas)
+
+    4.Multiplayer 
+
+
+   
+
+      5.NPCs   
+  
+          5.1 Comercio
+          5.2 Misiones
+          5.3 Enemigos_Agr.
+          5.4 Amigos_Agr.   
+          5.5 Enemigos_Pas
+          5.6 Amigos_Pas
+   
+     6.Ester_Eggs
+         peliculas,juegos...
+
+  
+     7.Guardado en red o en carpeta
+
+     8.Historia 
+
+     9.Consola de Comandados
+      
+     10.Map_Maker 
+
+     11.Acertijos
+
+     12.Minijuegos
+
+     13.Marcadores (Tops)
+     
+     14.Hambre
+     
+     15.ciclo temporal [Hecho]
+             15.1 ciclo dia-noche
+             15.2 ciclo sol-lluvia 
+      
+     16.Mods
+          carpeta de mods
+  
+     17.dibujos 
+    
+     18.Skins
+
+     19.javaScript a exe/phyton/etc
+
+     20
