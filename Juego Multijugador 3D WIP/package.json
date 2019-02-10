@@ -1,0 +1,11 @@
+{
+  "name": "drawing_server",
+  "version": "1.0.0",
+  "description": "Example: https://www.youtube.com/watch?v=2hhEOGXcCvg&list=PLRqwX-V7Uu6b36TzJidYfIYwTFEq3K5qH&index=2",
+  "node-main": "server.js",
+  "main":"index.html"
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
